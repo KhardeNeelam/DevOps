@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=vuHXpQqoNq8 
+
+https://www.youtube.com/watch?v=shctaaILCiU&t=488s
+
+edureka tips for alert popup handle
+https://www.youtube.com/watch?v=ia7EhHLZas8
+
+How to get coordinates of an element in selenium- youtube video
+https://www.google.com/search?q=how+to+calculate+coordinate+x+and+y+in+selenium&rlz=1C1RXQR_enAU1020AU1020&oq=how+to+calculate+coordinate+x+and+y+in+selenium&aqs=chrome..69i57j0i22i30l2j0i390l3.25516j0j15&sourceid=chrome&ie=UTF-8#kpvalbx=__8gMY8-kMJDw4-EPjMulmAY_19
+OR
+https://www.youtube.com/watch?v=vYaNQg2CX_c
+
+How to use robot class- good example
+https://www.toolsqa.com/selenium-webdriver/robot-class-mouse-events/
+
+How to use XPATH
+https://www.swtestacademy.com/xpath-selenium/
